@@ -8,7 +8,6 @@ using namespace std;
 int main(int argc, char* argv[]) {
 	int pos,p;
 	string s1;
-	string s2;
 	p=0;
 	char nameopen[255];	
 	cout<< "Vvedite ima faiva"<<endl;
