@@ -6,7 +6,7 @@
 using namespace std;
 
 int main(int argc, char* argv[]) {
-	int pos,k,p;
+	int pos,p;
 	string s1;
 	string s2;
 	p=0;
